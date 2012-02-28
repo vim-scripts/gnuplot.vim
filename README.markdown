@@ -4,7 +4,7 @@ gnuplot.vim
 Intro
 -----
 
-This is a mirror of [vim-scrip](http://www.vim.org/scripts/script.php?script_id=1737)
+This is a mirror of [vim-scripts](http://www.vim.org/scripts/script.php?script_id=1737)
 adapted for [pathogen.vim](https://github.com/tpope/vim-pathogen) as a bundle
 
 the gnuplot .plt extension sets the filetype to gnuplot
