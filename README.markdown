@@ -15,4 +15,4 @@ Installation
 [pathogen.vim](https://github.com/tpope/vim-pathogen) is the recommended way to install vim-gnuplot.
 
     cd ~/.vim/bundle
-    git clone https://github.com/vlaadbrain/vim-gnuplot.git
+    git clone https://github.com/vlaadbrain/gnuplot.vim.git
